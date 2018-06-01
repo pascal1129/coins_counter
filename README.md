@@ -20,6 +20,8 @@ coins_counter
 │
 ├── process_standalone.m    可直接运行的独立代码，无用户界面
 │
+├── result.png              程序运行产生的中间结果展示（实际运行时不生成此图片）
+│
 └── README.md               说明文档
 ```
 
