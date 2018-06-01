@@ -12,15 +12,15 @@ Coin counting system based on machine vision and Matlab
 ## 目录结构
 ```
 coins_counter
-├── coin_images			硬币样例图片文件夹，供测试使用
-│   ├── 1.jpg       		样例图片1
-│   ├── 2.jpg 		    	样例图片2
-│   ├── ...		        	...
-│   └── 6.jpg 		    	样例图片6
+├── coin_images             硬币样例图片文件夹，供测试使用
+│   ├── 1.jpg               样例图片1
+│   ├── 2.jpg               样例图片2
+│   ├── ...                 ...
+│   └── 6.jpg               样例图片6
 │
-├── process_standalone.m 	可直接运行的独立代码，无用户界面
+├── process_standalone.m    可直接运行的独立代码，无用户界面
 │
-└── README.md 			说明文档
+└── README.md               说明文档
 ```
 
 ## 运行方式
